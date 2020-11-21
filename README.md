@@ -1,2 +1,3 @@
 # python
-discussion about pytho.
+discussion about python.
+hello guys lets share ur knowledge.
